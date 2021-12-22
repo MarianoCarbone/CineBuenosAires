@@ -1,6 +1,6 @@
 <?php
 
-echo "probando correo desde php desde app";
+echo "CORREO ENVIADO...";
 
 
 //..parametro 1 destinatario, parametro 2 asunto, para metro 3 cuerpo del mensaje, parametro 4 desde donde nos llegan los correos
