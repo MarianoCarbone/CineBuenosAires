@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+footer{
+    background: linear-gradient(90deg, rgb(9, 39, 53), rgb(27, 85, 119));
+    margin-top: 10px;
+    padding: 10px;
+
+} 
+
+.foot{
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+#botones{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.btn-lg{
+    background: olivedrab;
+    border-bottom-color: darkgrey;
+}
+

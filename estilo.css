@@ -1,0 +1,66 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.textocentral{
+    display:contents;
+    position: relative;
+}
+#caro{
+    filter:brightness(0.5);
+}
+.container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.textobotones{
+        width: 100%;
+        color: whitesmoke;
+        display: flex;   
+        position: relative;
+        left: 100%;
+        bottom: 700px;
+}
+
+.textoimagen{
+    width: 100%;;
+    background-color: rgb(73, 73, 73);
+}
+
+.formulario{
+    margin-right: 50px;
+}
+
+#texto5{
+    text-align: center;
+}
+
+.botonenviar{
+    padding: 5px;
+    border:yellowgreen;
+    color: white;
+    background-color: yellowgreen;
+    border-radius: 5px;
+}
+
+footer{
+    background: linear-gradient(90deg, rgb(9, 39, 53), rgb(27, 85, 119));
+    margin-top: 10px;
+    padding: 10px;
+
+}
+
+.foot{
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+ 
